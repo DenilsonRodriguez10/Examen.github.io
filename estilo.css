@@ -1,0 +1,49 @@
+*{
+    background-color: rgb(85, 177, 238);
+}
+
+body{
+    text-align: right;
+}
+.titulos{
+    text-align: left;
+    color: white;
+}
+#container{
+    width: 200%;
+    border: 5px solid black;
+    background-color: white;
+}
+nav{
+    background-color: blue;
+}
+nav ul li{
+    background-color: white;
+    float: left;
+    list-style: none;
+    margin: 5px;
+    width: 50px;
+
+}
+.clearfix{
+    clear: both;
+}
+.Presentacion{
+    background-color: white;
+    text-align: left;
+    
+}
+.contenido .img{
+    background-color: white;
+    width: 50px;
+
+}
+.contenido{
+    background-color: white;
+    text-align: start;
+    width: 1000px;
+    
+}
+footer{
+    text-align: center;
+}
